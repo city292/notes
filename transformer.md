@@ -8,7 +8,7 @@
 # Segmenting transparent object in the wild with transformer(Trans2Seg) 
 - Enze Xie , Wenjia Wang, Wenhai Wang3
 - The University of Hong Kong Sensetime Research Nanjing University
-- [github](https://github.com/xieenze/Trans2Seg)
+- [github](https://github.com/xieenze/Trans2Seg)  
 - ![Trans2Seg](png/trans2Seg_arch.png)  
 # MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers  
 # Generative Adversarial Transformers （GANsformer）
